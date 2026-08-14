@@ -1,4 +1,4 @@
-package com.example.unposto.view
+package com.example.unposto.domain
 
 import com.example.unposto.data.firebase.FirebaseFileRepository
 import com.example.unposto.data.firebase.FirebasePostRepository

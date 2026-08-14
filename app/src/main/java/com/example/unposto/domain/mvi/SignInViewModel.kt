@@ -1,4 +1,4 @@
-package com.example.unposto.view.signin
+package com.example.unposto.domain.mvi
 
 import androidx.lifecycle.*
 import androidx.lifecycle.ViewModel

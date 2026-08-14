@@ -1,4 +1,4 @@
-package com.example.unposto.view.posts
+package com.example.unposto.domain.ui
 
 import android.net.Uri
 import androidx.recyclerview.widget.RecyclerView

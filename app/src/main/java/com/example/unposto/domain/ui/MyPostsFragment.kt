@@ -1,4 +1,4 @@
-package com.example.unposto.view.posts
+package com.example.unposto.domain.ui
 
 import android.os.Bundle
 import android.util.Log
@@ -11,6 +11,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import com.example.unposto.R
+import com.example.unposto.domain.mvi.MyPostsViewModel
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import dagger.hilt.android.AndroidEntryPoint
 

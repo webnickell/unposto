@@ -14,7 +14,7 @@
     android:layout_marginLeft="16dp"
     android:layout_marginRight="16dp"
     app:layoutManager="LinearLayoutManager"
-    tools:context=".view.posts.MyPostsFragment"
+    tools:context=".domain.ui.MyPostsFragment"
     tools:listitem="@layout/item_post" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
